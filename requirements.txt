@@ -1,4 +1,8 @@
-streamlit
-PyMuPDF
-transformers
-torch
+streamlit==1.29.0
+PyMuPDF==1.22.5
+transformers==4.34.0
+torch==2.1.0
+sentence-transformers==2.2.2
+pandas
+numpy
+sentencepiece
